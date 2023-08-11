@@ -20,6 +20,6 @@ int main(){
     total = n1 + n2 + n3 ;
     printf( "Answer = " ) ;
     printf( "%d", total ) ;
-
+    
     return 0 ;
 }
